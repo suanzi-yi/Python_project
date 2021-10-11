@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c799fc1-ac20-434a-a702-d962ea724ec0" name="默认变更列表" comment="" />
+    <list default="true" id="4c799fc1-ac20-434a-a702-d962ea724ec0" name="默认变更列表" comment="all commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,11 +16,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../ANACONDA/Lib/site-packages/faiss/swigfaiss.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/917457739/builtins.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1qdfw9UwgCuTT7TRBqNjW8q5Mxy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
@@ -192,6 +196,29 @@
       <option name="presentableId" value="Default" />
       <updated>1617414623562</updated>
     </task>
+    <task id="LOCAL-00001" summary="all commit">
+      <created>1633960763233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633960763234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="all commit" />
   </component>
 </project>
